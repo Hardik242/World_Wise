@@ -28,9 +28,9 @@ export default function SearchCity() {
     function handleSubmit(e) {
         e.preventDefault();
         setError(false);
-        setIsLoading(true);
 
         try {
+            setIsLoading(true);
             fetch(`${BASE_URL}${cityName}`, {
                 method: "GET",
                 headers: {
