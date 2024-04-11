@@ -1,0 +1,52 @@
+{
+    "cities": [
+        {
+            "cityName": "Bengaluru",
+            "country": "India",
+            "emoji": "🇮🇳",
+            "date": "2024-04-02T10:46:52.608Z",
+            "notes": "IT hub",
+            "position": {
+                "lat": "12.967088984637462",
+                "lng": "77.59652482776448"
+            },
+            "id": 54822492
+        },
+        {
+            "cityName": "Delhi",
+            "country": "India",
+            "emoji": "🇮🇳",
+            "date": "2024-04-11T05:48:46.226Z",
+            "notes": "Capital City of India",
+            "position": {
+                "lat": "28.611048252984677",
+                "lng": "77.1875129659798"
+            },
+            "id": 14539995
+        },
+        {
+            "cityName": "Santa Cruz",
+            "country": "United States of America (the)",
+            "emoji": "🇺🇸",
+            "date": "2024-04-11T05:49:10.774Z",
+            "notes": "",
+            "position": {
+                "lat": "36.96306042436515",
+                "lng": "-122.0358561674904"
+            },
+            "id": 14583883
+        },
+        {
+            "cityName": "Washington",
+            "country": "United States of America (the)",
+            "emoji": "🇺🇸",
+            "date": "2024-04-11T05:49:51.811Z",
+            "notes": "",
+            "position": {
+                "lat": "38.993572058209466",
+                "lng": "-76.89317071570446"
+            },
+            "id": 14604985
+        }
+    ]
+}
