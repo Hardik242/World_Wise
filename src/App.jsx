@@ -46,7 +46,11 @@ export default function App() {
                                     element={<Navigate replace to="cities" />}
                                 />
                             </Route>
-                            <Route path="*" element={<PageNotFound />} />
+                            {/* <Route path="*" element={<PageNotFound />} /> */}
+                            <Route
+                                path="*"
+                                element={<Navigate replace to="app" />}
+                            />
                         </Routes>
                     </Suspense>
                 </CitiesProvider>
